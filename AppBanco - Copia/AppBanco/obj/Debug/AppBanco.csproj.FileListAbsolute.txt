@@ -1,0 +1,52 @@
+D:\LPG\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+D:\LPG\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+D:\LPG\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+D:\LPG\AppBanco\AppBanco\bin\Debug\MySql.Data.dll
+D:\LPG\AppBanco\AppBanco\bin\Debug\System.Memory.dll
+D:\LPG\AppBanco\AppBanco\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\LPG\AppBanco\AppBanco\bin\Debug\System.Numerics.Vectors.dll
+D:\LPG\AppBanco\AppBanco\bin\Debug\System.Buffers.dll
+D:\LPG\AppBanco\AppBanco\bin\Debug\MySql.Data.xml
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.SuggestedBindingRedirects.cache
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.Form1.resources
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.Properties.Resources.resources
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.GenerateResource.cache
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CopyComplete
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+D:\LPG\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\System.Memory.dll
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\System.Numerics.Vectors.dll
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\System.Buffers.dll
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\bin\Debug\MySql.Data.xml
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.Form1.resources
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.Properties.Resources.resources
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.GenerateResource.cache
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CopyComplete
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+D:\Hugo\Atividades de programação e desenvolvimento feitos no Instituto Federal\Algoritmos-Linguagem-de-Programa--o-Orientada-a-Objetos\Aula 22\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
+D:\Andrus\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+D:\Andrus\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+D:\Andrus\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+D:\Andrus\AppBanco\AppBanco\bin\Debug\MySql.Data.dll
+D:\Andrus\AppBanco\AppBanco\bin\Debug\System.Memory.dll
+D:\Andrus\AppBanco\AppBanco\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Andrus\AppBanco\AppBanco\bin\Debug\System.Numerics.Vectors.dll
+D:\Andrus\AppBanco\AppBanco\bin\Debug\System.Buffers.dll
+D:\Andrus\AppBanco\AppBanco\bin\Debug\MySql.Data.xml
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.SuggestedBindingRedirects.cache
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.Form1.resources
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.Properties.Resources.resources
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.GenerateResource.cache
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CopyComplete
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+D:\Andrus\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
